@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview  
 This Power BI project analyzes sales and marketing performance for **Baker Dozen**, a bakery that uses **tiered promotions** to encourage larger purchases.  
-The goal is to understand **consumer response** to these promotions across different **days of the week**, **time periods**, and **advertising channels** — helping the bakery make data-driven decisions to improve marketing efficiency and overall revenue.  
+The goal is to understand **consumer response** to these promotions across different **days of the week**, **time periods**, and **advertising channels** helping the bakery make data-driven decisions to improve marketing efficiency and overall revenue.  
 
 ---
 
