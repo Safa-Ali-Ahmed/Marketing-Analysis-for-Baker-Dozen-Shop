@@ -54,6 +54,11 @@ The goal is to understand **consumer response** to these promotions across diffe
 
 ---
 
+## Dashboard
+<img width="1796" height="851" alt="1" src="https://github.com/user-attachments/assets/2f4d3ef3-fee7-46d6-87df-0ea47ddd74db" />
+
+---
+
 ## 📁 Files Included  
 - `Baker Dozen.pbix` – Power BI dashboard file  
 - `Baker Dozen.pdf` – Exported dashboard and insights summary  
